@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MonitorResource</string>
+    <string name="action_settings">Settings</string>
+    <string name="information">Information</string>
+    <string name="setting">Setting</string>
+    <string name="title_activity_process_detail">ProcessDetail</string>
+    <string name="about">For the detailed process information, including CPU usage, memory usage and battery usage</string>
+</resources>
